@@ -1,0 +1,17 @@
+{
+  "name": "dcn",
+  "version": "0.0.0",
+  "description": "DCN",
+  "main": "app.js",
+  "author": {
+    "name": "Haim"
+  },
+  "dependencies": {
+    "async": "^2.2.0",
+    "chance": "^1.0.6",
+    "ipware": "^1.0.0",
+    "maxmind": "^2.2.0",
+    "redis": "^2.7.1",
+    "underscore": "^1.8.3"
+  }
+}
